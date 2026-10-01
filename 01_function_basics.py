@@ -11,3 +11,10 @@ Total Questions: 10
 # ======================================================
 # TOPIC 1: FUNCTION WITH CALCULATION
 # ======================================================
+
+# ======================================================
+# Q1. CALCULATE SHOPPING BILL
+# ======================================================
+# Create a function that takes item prices,
+# calculates the total, and applies a discount
+# if the total is greater than 2000.
