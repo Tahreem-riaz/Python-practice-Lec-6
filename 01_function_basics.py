@@ -113,3 +113,9 @@ print("Highest Marks:", highest)
 # ======================================================
 # TOPIC 4: FUNCTION WITH LIST
 # ======================================================
+
+# ======================================================
+# Q4. COUNT PASSED STUDENTS
+# ======================================================
+# Create a function that counts how many students
+# have marks of 50 or above.
