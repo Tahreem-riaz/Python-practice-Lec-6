@@ -163,3 +163,5 @@ if len(password) >= 8 and has_number:
     print("Password: Strong")
 else:
     print("Password: Weak")
+
+check_password("Python123")
