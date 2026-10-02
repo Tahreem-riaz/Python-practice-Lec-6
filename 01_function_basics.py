@@ -147,3 +147,6 @@ count_passed(marks)
 # - contains a number
 #
 # Display Strong or Weak.
+
+def check_password(password):
+    
