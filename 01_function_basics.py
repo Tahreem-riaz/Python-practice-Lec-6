@@ -94,3 +94,11 @@ def find_highest(marks):
 
     # Start with the first mark as the highest.
      highest = marks[0]
+
+     # Compare each mark with the current highest.
+     for mark in marks:
+
+        if mark > highest:
+            highest = mark
+
+     return highest
