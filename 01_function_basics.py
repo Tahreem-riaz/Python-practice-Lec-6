@@ -72,3 +72,8 @@ def check_grade(marks):
 
     else:
         grade = "F"
+
+print("Marks:", marks)
+print("Grade:", grade)
+
+    
