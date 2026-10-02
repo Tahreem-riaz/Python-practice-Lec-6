@@ -168,3 +168,9 @@ check_password("Python123")
 # ======================================================
 # TOPIC 6: FUNCTION WITH LIST AND LOOP
 # ======================================================
+
+# ======================================================
+# Q6. FIND EVEN NUMBERS
+# ======================================================
+# Create a function that takes a list and displays
+# all even numbers.
