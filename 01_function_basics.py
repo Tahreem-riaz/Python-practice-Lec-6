@@ -34,4 +34,8 @@ def calculate_bill(prices):
         print("10% Discount Applied")
 
     print("Final Bill:", total)
-    
+
+prices = [450, 700, 350, 600]
+
+calculate_bill(prices)
+
