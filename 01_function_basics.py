@@ -57,7 +57,7 @@ calculate_bill(prices)
 
 def check_grade(marks):
 
-# Determine the grade according to the marks.
+
     if marks >= 80:
         grade = "A"
 
@@ -73,7 +73,8 @@ def check_grade(marks):
     else:
         grade = "F"
 
-print("Marks:", marks)
-print("Grade:", grade)
+    print("Marks:", marks)
+    print("Grade:", grade)
 
-    
+
+check_grade(76)
