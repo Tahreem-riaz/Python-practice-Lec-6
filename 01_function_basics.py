@@ -157,3 +157,9 @@ def check_password(password):
 
         if character.isdigit():
             has_number = True
+
+# Check the password length and number requirement.
+if len(password) >= 8 and has_number:
+    print("Password: Strong")
+else:
+    print("Password: Weak")
