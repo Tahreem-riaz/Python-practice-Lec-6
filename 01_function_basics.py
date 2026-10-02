@@ -42,3 +42,15 @@ calculate_bill(prices)
 # ======================================================
 # TOPIC 2: FUNCTION WITH CONDITIONS
 # ======================================================
+
+# ======================================================
+# Q2. STUDENT GRADE CHECKER
+# ======================================================
+# Create a function that takes marks and displays
+# the grade according to the following:
+#
+# 80 or above -> A
+# 70 or above -> B
+# 60 or above -> C
+# 50 or above -> D
+# Below 50 -> F
