@@ -129,3 +129,5 @@ def count_passed(marks):
 
         if mark >= 50:
             passed += 1
+
+    print("Passed Students:", passed)
