@@ -119,3 +119,5 @@ print("Highest Marks:", highest)
 # ======================================================
 # Create a function that counts how many students
 # have marks of 50 or above.
+
+def count_passed(marks):
