@@ -20,3 +20,9 @@ Total Questions: 10
 # if the total is greater than 2000.
 
 def calculate_bill(prices):
+
+    # Calculate the total price.
+    total = 0
+
+    for price in prices:
+        total += price
