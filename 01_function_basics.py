@@ -90,3 +90,5 @@ check_grade(76)
 # Create a function that finds the highest mark
 # from a list without using max().
 
+def find_highest(marks):
+    
