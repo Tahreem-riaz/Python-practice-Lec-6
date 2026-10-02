@@ -55,5 +55,4 @@ calculate_bill(prices)
 # 50 or above -> D
 # Below 50 -> F
 
-
-    
+def check_grade(marks):
