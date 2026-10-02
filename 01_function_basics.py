@@ -106,3 +106,5 @@ def find_highest(marks):
 marks = [65, 88, 72, 91, 54]
 
 highest = find_highest(marks)
+
+print("Highest Marks:", highest)
