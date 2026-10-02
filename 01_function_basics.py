@@ -149,4 +149,11 @@ count_passed(marks)
 # Display Strong or Weak.
 
 def check_password(password):
-    
+
+  # Check whether the password contains a number.
+  has_number = False
+
+  for character in password:
+
+        if character.isdigit():
+            has_number = True
