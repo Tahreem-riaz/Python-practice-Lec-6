@@ -18,3 +18,5 @@ Total Questions: 10
 # Create a function that takes item prices,
 # calculates the total, and applies a discount
 # if the total is greater than 2000.
+
+def calculate_bill(prices):
