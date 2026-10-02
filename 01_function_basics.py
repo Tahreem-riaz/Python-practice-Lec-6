@@ -108,3 +108,8 @@ marks = [65, 88, 72, 91, 54]
 highest = find_highest(marks)
 
 print("Highest Marks:", highest)
+
+
+# ======================================================
+# TOPIC 4: FUNCTION WITH LIST
+# ======================================================
