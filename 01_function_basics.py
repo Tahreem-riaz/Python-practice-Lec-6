@@ -154,14 +154,17 @@ def check_password(password):
   has_number = False
 
   for character in password:
-
         if character.isdigit():
             has_number = True
 
-# Check the password length and number requirement.
-if len(password) >= 8 and has_number:
-    print("Password: Strong")
-else:
-    print("Password: Weak")
+  # Check the password length and number requirement.
+  if len(password) >= 8 and has_number:
+      print("Password: Strong")
+  else:
+      print("Password: Weak")
 
 check_password("Python123")
+
+# ======================================================
+# TOPIC 6: FUNCTION WITH LIST AND LOOP
+# ======================================================
