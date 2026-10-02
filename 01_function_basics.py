@@ -121,3 +121,11 @@ print("Highest Marks:", highest)
 # have marks of 50 or above.
 
 def count_passed(marks):
+
+    # Count students who have passed.
+    passed = 0
+
+    for mark in marks:
+
+        if mark >= 50:
+            passed += 1
