@@ -91,4 +91,6 @@ check_grade(76)
 # from a list without using max().
 
 def find_highest(marks):
-    
+
+    # Start with the first mark as the highest.
+     highest = marks[0]
