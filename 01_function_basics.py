@@ -26,3 +26,10 @@ def calculate_bill(prices):
 
     for price in prices:
         total += price
+
+   # Apply a 10% discount if the total is above 2000.
+    if total > 2000:
+        discount = total * 0.10
+        total = total - discount
+        print("10% Discount Applied")
+
