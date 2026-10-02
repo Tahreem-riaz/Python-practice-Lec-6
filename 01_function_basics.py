@@ -138,3 +138,12 @@ count_passed(marks)
 # ======================================================
 # TOPIC 5: FUNCTION WITH STRING
 # ======================================================
+
+# ======================================================
+# Q5. PASSWORD STRENGTH CHECKER
+# ======================================================
+# Create a function that checks whether a password:
+# - has at least 8 characters
+# - contains a number
+#
+# Display Strong or Weak.
