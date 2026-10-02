@@ -131,3 +131,6 @@ def count_passed(marks):
             passed += 1
 
     print("Passed Students:", passed)
+
+marks = [45, 78, 62, 33, 91, 49, 70]
+count_passed(marks)
