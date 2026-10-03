@@ -168,4 +168,9 @@ def find_common(numbers1, numbers2):
 
     print("Common Numbers:")
 
-   
+   # Check for numbers that exist in both lists.
+    for number in numbers1:
+
+        if number in numbers2:
+            print(number)
+
