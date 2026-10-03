@@ -189,3 +189,6 @@ find_common(list1, list2)
 # ======================================================
 # Create a function that takes a number
 # and prints its table.
+
+def multiplication_table(number):
+    
