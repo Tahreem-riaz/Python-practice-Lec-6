@@ -41,3 +41,9 @@ calculate_average(75, 82, 68)
 # - marks are 50 or above
 
 def check_eligibility(age, marks):
+
+     # Check the age and marks requirements.
+    if age >= 18 and marks >= 50:
+        print("Student is Eligible")
+    else:
+        print("Student is Not Eligible")
