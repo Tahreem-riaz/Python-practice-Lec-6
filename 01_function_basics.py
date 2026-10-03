@@ -231,7 +231,14 @@ search_subject(subjects, "Python")
 
 def check_prime(number):
 
-      # Numbers below 2 are not prime.
+# Numbers below 2 are not prime.
     if number < 2:
         print("Not Prime")
         return
+
+# Check whether the number has any divisor.
+    for divisor in range(2, number):
+
+        if number % divisor == 0:
+            print("Not Prime")
+            return
