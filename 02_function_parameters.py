@@ -84,3 +84,9 @@ validate_username("student123")
 # ======================================================
 # TOPIC 4: LIST PARAMETER
 # ======================================================
+
+# ======================================================
+# Q4. FIND NUMBERS ABOVE A LIMIT
+# ======================================================
+# Create a function that takes a list and a limit.
+# Display numbers greater than the limit.
