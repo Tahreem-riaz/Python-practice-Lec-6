@@ -191,4 +191,8 @@ find_common(list1, list2)
 # and prints its table.
 
 def multiplication_table(number):
-    
+
+     # Generate the table from 1 to 10.
+    for multiplier in range(1, 11):
+
+        result = number * multiplier
