@@ -163,3 +163,7 @@ calculate_discount(2000, 20)
 # ======================================================
 # Create a function that takes two lists and
 # displays the common numbers.
+
+def find_common(numbers1, numbers2):
+
+    
