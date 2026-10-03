@@ -214,3 +214,7 @@ def search_subject(subjects, search):
         print(search, "was found.")
     else:
         print(search, "was not found.")
+
+subjects = ["Python", "Math", "Database", "English"]
+
+search_subject(subjects, "Python")
