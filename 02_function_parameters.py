@@ -63,3 +63,5 @@ check_eligibility(19, 72)
 # - minimum 5 characters
 # - maximum 15 characters
 # - no spaces
+
+def validate_username(username):
