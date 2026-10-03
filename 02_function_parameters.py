@@ -166,4 +166,6 @@ calculate_discount(2000, 20)
 
 def find_common(numbers1, numbers2):
 
-    
+    print("Common Numbers:")
+
+   
