@@ -178,3 +178,9 @@ check_password("Python123")
 def display_even_numbers(numbers):
 
     print("Even Numbers:")
+
+    # Check each number and display the even values.
+    for number in numbers:
+
+        if number % 2 == 0:
+            print(number)
