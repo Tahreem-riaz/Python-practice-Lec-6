@@ -157,3 +157,9 @@ calculate_discount(2000, 20)
 # ======================================================
 # TOPIC 7: MULTIPLE LIST PARAMETERS
 # ======================================================
+
+# ======================================================
+# Q7. COMPARE TWO LISTS
+# ======================================================
+# Create a function that takes two lists and
+# displays the common numbers.
