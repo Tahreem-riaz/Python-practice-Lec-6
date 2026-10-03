@@ -39,3 +39,5 @@ calculate_average(75, 82, 68)
 # A student is eligible if:
 # - age is 18 or above
 # - marks are 50 or above
+
+def check_eligibility(age, marks):
