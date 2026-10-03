@@ -23,3 +23,6 @@ def calculate_average(math, python, english):
      # Calculate the total marks and average.
     total = math + python + english
     average = total / 3
+
+    print("Total:", total)
+    print("Average:", average)
