@@ -218,3 +218,7 @@ def search_subject(subjects, search):
 subjects = ["Python", "Math", "Database", "English"]
 
 search_subject(subjects, "Python")
+
+# ======================================================
+# TOPIC 8: FUNCTION WITH NUMBER CHECK
+# ======================================================
