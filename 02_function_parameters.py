@@ -77,3 +77,6 @@ def validate_username(username):
 
     else:
         print("Username is valid")
+
+validate_username("student123")
+        
