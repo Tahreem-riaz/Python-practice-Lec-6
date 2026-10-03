@@ -242,3 +242,7 @@ def check_prime(number):
         if number % divisor == 0:
             print("Not Prime")
             return
+
+print("Prime Number")
+
+check_prime(17)
