@@ -47,3 +47,5 @@ def check_eligibility(age, marks):
         print("Student is Eligible")
     else:
         print("Student is Not Eligible")
+
+check_eligibility(19, 72)
