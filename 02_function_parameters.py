@@ -26,3 +26,5 @@ def calculate_average(math, python, english):
 
     print("Total:", total)
     print("Average:", average)
+
+calculate_average(75, 82, 68)
