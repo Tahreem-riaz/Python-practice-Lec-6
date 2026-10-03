@@ -188,3 +188,7 @@ def display_even_numbers(numbers):
 numbers = [12, 7, 18, 25, 30, 41, 16]
 
 display_even_numbers(numbers)
+
+# ======================================================
+# TOPIC 7: FUNCTION FOR SEARCHING
+# ======================================================
