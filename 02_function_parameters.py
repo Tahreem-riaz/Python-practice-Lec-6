@@ -79,4 +79,8 @@ def validate_username(username):
         print("Username is valid")
 
 validate_username("student123")
-        
+
+
+# ======================================================
+# TOPIC 4: LIST PARAMETER
+# ======================================================
