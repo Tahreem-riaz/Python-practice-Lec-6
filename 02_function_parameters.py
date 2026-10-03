@@ -123,7 +123,7 @@ def simple_interest(principal, rate, time):
     # Calculate the simple interest.
     interest = (principal * rate * time) / 100
 
-print("Simple Interest:", interest)
-print("Total Amount:", principal + interest)
+    print("Simple Interest:", interest)
+    print("Total Amount:", principal + interest)
 
 simple_interest(10000, 5, 2)
