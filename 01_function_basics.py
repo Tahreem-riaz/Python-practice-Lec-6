@@ -198,3 +198,5 @@ display_even_numbers(numbers)
 # ======================================================
 # Create a function that searches for a subject
 # inside a list.
+
+def search_subject(subjects, search):
