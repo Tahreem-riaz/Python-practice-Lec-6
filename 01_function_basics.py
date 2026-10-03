@@ -192,3 +192,9 @@ display_even_numbers(numbers)
 # ======================================================
 # TOPIC 7: FUNCTION FOR SEARCHING
 # ======================================================
+
+# ======================================================
+# Q7. SEARCH FOR A SUBJECT
+# ======================================================
+# Create a function that searches for a subject
+# inside a list.
