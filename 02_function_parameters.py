@@ -17,3 +17,5 @@ Total Questions: 10
 # ======================================================
 # Create a function that takes three subject marks
 # and calculates the average.
+
+def calculate_average(math, python, english):
