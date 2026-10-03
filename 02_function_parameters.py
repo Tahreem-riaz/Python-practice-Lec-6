@@ -196,3 +196,8 @@ def multiplication_table(number):
     for multiplier in range(1, 11):
 
         result = number * multiplier
+
+        print(number, "x", multiplier, "=", result)
+
+multiplication_table(7)
+        
