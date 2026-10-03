@@ -147,5 +147,9 @@ def calculate_discount(price, discount=10):
     print("Discount:", discount_amount)
     print("Final Price:", final_price)
 
+calculate_discount(2000)
 
+print()
+
+calculate_discount(2000, 20)
 
