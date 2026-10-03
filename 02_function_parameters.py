@@ -138,3 +138,4 @@ simple_interest(10000, 5, 2)
 # Create a function where discount is 10% by default.
 # The user can also provide another discount rate.
 
+def calculate_discount(price, discount=10):
