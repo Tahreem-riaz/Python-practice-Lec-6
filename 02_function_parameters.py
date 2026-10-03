@@ -65,3 +65,15 @@ check_eligibility(19, 72)
 # - no spaces
 
 def validate_username(username):
+
+    if len(username) < 5:
+        print("Username is too short")
+
+    elif len(username) > 15:
+        print("Username is too long")
+
+    elif " " in username:
+        print("Username cannot contain spaces")
+
+    else:
+        print("Username is valid")
