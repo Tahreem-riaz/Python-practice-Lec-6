@@ -131,3 +131,10 @@ simple_interest(10000, 5, 2)
 # ======================================================
 # TOPIC 6: DEFAULT PARAMETER
 # ======================================================
+
+# ======================================================
+# Q6. CALCULATE DISCOUNT
+# ======================================================
+# Create a function where discount is 10% by default.
+# The user can also provide another discount rate.
+
