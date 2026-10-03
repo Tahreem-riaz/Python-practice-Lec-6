@@ -144,6 +144,8 @@ def calculate_discount(price, discount=10):
     discount_amount = price * discount / 100
     final_price = price - discount_amount
 
-print("Discount:", discount_amount)
-print("Final Price:", final_price)
+    print("Discount:", discount_amount)
+    print("Final Price:", final_price)
+
+
 
