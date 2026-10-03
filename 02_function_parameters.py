@@ -174,3 +174,5 @@ def find_common(numbers1, numbers2):
         if number in numbers2:
             print(number)
 
+list1 = [10, 20, 30, 40, 50]
+list2 = [30, 40, 60, 70]
