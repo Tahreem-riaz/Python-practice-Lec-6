@@ -54,3 +54,12 @@ check_eligibility(19, 72)
 # TOPIC 3: STRING PARAMETERS
 # ======================================================
 
+# ======================================================
+# Q3. USERNAME VALIDATOR
+# ======================================================
+# Create a function that checks a username.
+#
+# Conditions:
+# - minimum 5 characters
+# - maximum 15 characters
+# - no spaces
