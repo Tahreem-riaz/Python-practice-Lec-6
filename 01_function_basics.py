@@ -184,3 +184,7 @@ def display_even_numbers(numbers):
 
         if number % 2 == 0:
             print(number)
+
+numbers = [12, 7, 18, 25, 30, 41, 16]
+
+display_even_numbers(numbers)
