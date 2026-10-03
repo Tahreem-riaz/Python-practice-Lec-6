@@ -222,3 +222,9 @@ search_subject(subjects, "Python")
 # ======================================================
 # TOPIC 8: FUNCTION WITH NUMBER CHECK
 # ======================================================
+
+# ======================================================
+# Q8. FIND PRIME NUMBER
+# ======================================================
+# Create a function that checks whether a number
+# is prime.
