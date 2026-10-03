@@ -94,3 +94,9 @@ validate_username("student123")
 def numbers_above_limit(numbers, limit):
 
     print("Numbers greater than", limit)
+
+# Compare each number with the given limit.
+    for number in numbers:
+
+        if number > limit:
+            print(number)
