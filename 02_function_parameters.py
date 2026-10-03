@@ -100,3 +100,7 @@ def numbers_above_limit(numbers, limit):
 
         if number > limit:
             print(number)
+
+numbers = [12, 45, 8, 67, 23, 90]
+
+numbers_above_limit(numbers, 40)
