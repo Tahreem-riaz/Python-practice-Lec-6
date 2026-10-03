@@ -228,3 +228,5 @@ search_subject(subjects, "Python")
 # ======================================================
 # Create a function that checks whether a number
 # is prime.
+
+def check_prime(number):
