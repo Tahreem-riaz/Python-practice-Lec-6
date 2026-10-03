@@ -200,3 +200,17 @@ display_even_numbers(numbers)
 # inside a list.
 
 def search_subject(subjects, search):
+
+      # Assume the subject is not found initially.
+    found = False
+
+    for subject in subjects:
+
+        if subject.lower() == search.lower():
+            found = True
+            break
+
+    if found:
+        print(search, "was found.")
+    else:
+        print(search, "was not found.")
