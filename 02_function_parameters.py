@@ -49,3 +49,8 @@ def check_eligibility(age, marks):
         print("Student is Not Eligible")
 
 check_eligibility(19, 72)
+
+# ======================================================
+# TOPIC 3: STRING PARAMETERS
+# ======================================================
+
