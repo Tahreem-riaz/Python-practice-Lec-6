@@ -108,3 +108,12 @@ numbers_above_limit(numbers, 40)
 # ======================================================
 # TOPIC 5: PARAMETERS WITH CALCULATION
 # ======================================================
+
+# ======================================================
+# Q5. SIMPLE INTEREST CALCULATOR
+# ======================================================
+# Create a function that takes:
+# principal, rate, and time.
+#
+# Formula:
+# Simple Interest = (P * R * T) / 100
