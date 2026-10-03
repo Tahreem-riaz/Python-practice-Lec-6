@@ -28,3 +28,7 @@ def calculate_average(math, python, english):
     print("Average:", average)
 
 calculate_average(75, 82, 68)
+
+# ======================================================
+# TOPIC 2: PARAMETERS WITH CONDITIONS
+# ======================================================
