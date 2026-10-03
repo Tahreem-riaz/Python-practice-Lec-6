@@ -125,3 +125,5 @@ def simple_interest(principal, rate, time):
 
 print("Simple Interest:", interest)
 print("Total Amount:", principal + interest)
+
+simple_interest(10000, 5, 2)
