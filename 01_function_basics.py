@@ -230,3 +230,8 @@ search_subject(subjects, "Python")
 # is prime.
 
 def check_prime(number):
+
+      # Numbers below 2 are not prime.
+    if number < 2:
+        print("Not Prime")
+        return
