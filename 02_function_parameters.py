@@ -11,3 +11,9 @@ Total Questions: 10
 # ======================================================
 # TOPIC 1: MULTIPLE PARAMETERS
 # ======================================================
+
+# ======================================================
+# Q1. CALCULATE STUDENT AVERAGE
+# ======================================================
+# Create a function that takes three subject marks
+# and calculates the average.
