@@ -174,3 +174,5 @@ check_password("Python123")
 # ======================================================
 # Create a function that takes a list and displays
 # all even numbers.
+
+def display_even_numbers(numbers):
