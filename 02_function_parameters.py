@@ -117,3 +117,5 @@ numbers_above_limit(numbers, 40)
 #
 # Formula:
 # Simple Interest = (P * R * T) / 100
+
+def simple_interest(principal, rate, time):
