@@ -127,3 +127,7 @@ def simple_interest(principal, rate, time):
     print("Total Amount:", principal + interest)
 
 simple_interest(10000, 5, 2)
+
+# ======================================================
+# TOPIC 6: DEFAULT PARAMETER
+# ======================================================
