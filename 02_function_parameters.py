@@ -139,3 +139,11 @@ simple_interest(10000, 5, 2)
 # The user can also provide another discount rate.
 
 def calculate_discount(price, discount=10):
+
+    # Calculate the discount amount and final price.
+    discount_amount = price * discount / 100
+    final_price = price - discount_amount
+
+print("Discount:", discount_amount)
+print("Final Price:", final_price)
+
