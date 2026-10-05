@@ -132,3 +132,9 @@ print("Username:", username)
 # ======================================================
 # TOPIC 6: RETURN WITH CALCULATION
 # ======================================================
+
+# ======================================================
+# Q6. CALCULATE FINAL PRICE
+# ======================================================
+# Create a function that takes price and discount.
+# Return the final price after applying the discount.
