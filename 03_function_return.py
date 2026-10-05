@@ -24,3 +24,7 @@ def calculate_total(math, python, english):
     total = math + python + english
 
     return total
+
+total = calculate_total(75, 82, 68)
+
+print("Total Marks:", total)
