@@ -58,3 +58,10 @@ print("Average:", average)
 # ======================================================
 # TOPIC 3: RETURN WITH CONDITIONS
 # ======================================================
+
+# ======================================================
+# Q3. CHECK PASS OR FAIL
+# ======================================================
+# Create a function that takes marks and returns:
+# "Pass" if marks are 50 or above
+# "Fail" if marks are below 50
