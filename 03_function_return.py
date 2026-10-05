@@ -100,3 +100,7 @@ def analyze_numbers(numbers):
 numbers = [12, 45, 8, 67, 23]
 
 total, highest, lowest = analyze_numbers(numbers)
+
+print("Total:", total)
+print("Highest:", highest)
+print("Lowest:", lowest)
