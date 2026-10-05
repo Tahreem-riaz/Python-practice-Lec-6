@@ -54,3 +54,7 @@ marks = [75, 82, 68, 91]
 average = calculate_average(marks)
 
 print("Average:", average)
+
+# ======================================================
+# TOPIC 3: RETURN WITH CONDITIONS
+# ======================================================
