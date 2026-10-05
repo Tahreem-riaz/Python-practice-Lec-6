@@ -128,3 +128,7 @@ def create_username(name, roll_number):
 username = create_username("Ali", 25)
 
 print("Username:", username)
+
+# ======================================================
+# TOPIC 6: RETURN WITH CALCULATION
+# ======================================================
