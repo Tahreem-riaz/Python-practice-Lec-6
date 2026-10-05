@@ -50,3 +50,7 @@ def calculate_average(marks):
     return average
 
 marks = [75, 82, 68, 91]
+
+average = calculate_average(marks)
+
+print("Average:", average)
