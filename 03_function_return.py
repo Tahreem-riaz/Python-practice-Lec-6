@@ -124,3 +124,7 @@ def create_username(name, roll_number):
     username = name.lower() + "_" + str(roll_number)
 
     return username
+
+username = create_username("Ali", 25)
+
+print("Username:", username)
