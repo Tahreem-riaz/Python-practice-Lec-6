@@ -67,4 +67,10 @@ print("Average:", average)
 # "Fail" if marks are below 50
 
 def check_result(marks):
-    
+
+    # Return the result according to the marks.
+    if marks >= 50:
+        return "Pass"
+    else:
+        return "Fail"
+
