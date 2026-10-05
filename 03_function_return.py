@@ -104,3 +104,7 @@ total, highest, lowest = analyze_numbers(numbers)
 print("Total:", total)
 print("Highest:", highest)
 print("Lowest:", lowest)
+
+# ======================================================
+# TOPIC 5: RETURN WITH STRING
+# ======================================================
