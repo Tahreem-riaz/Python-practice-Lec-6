@@ -81,3 +81,9 @@ print("Result:", result)
 # ======================================================
 # TOPIC 4: RETURN MULTIPLE VALUES
 # ======================================================
+
+# ======================================================
+# Q4. ANALYZE NUMBERS
+# ======================================================
+# Create a function that takes a list of numbers
+# and returns the total, highest, and lowest value.
