@@ -77,3 +77,7 @@ def check_result(marks):
 result = check_result(72)
 
 print("Result:", result)
+
+# ======================================================
+# TOPIC 4: RETURN MULTIPLE VALUES
+# ======================================================
