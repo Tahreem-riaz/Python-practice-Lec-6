@@ -48,3 +48,5 @@ def calculate_average(marks):
     average = total / len(marks)
 
     return average
+
+marks = [75, 82, 68, 91]
