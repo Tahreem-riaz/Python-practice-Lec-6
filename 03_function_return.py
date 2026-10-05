@@ -17,3 +17,6 @@ Total Questions: 10
 # ======================================================
 # Create a function that takes three subject marks
 # and returns the total marks.
+
+def calculate_total(math, python, english):
+    
