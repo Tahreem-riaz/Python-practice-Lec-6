@@ -119,4 +119,8 @@ print("Lowest:", lowest)
 # Ali + 25 -> ali_25
 
 def create_username(name, roll_number):
-    
+
+    # Create and return the formatted username.
+    username = name.lower() + "_" + str(roll_number)
+
+    return username
