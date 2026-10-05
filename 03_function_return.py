@@ -108,3 +108,12 @@ print("Lowest:", lowest)
 # ======================================================
 # TOPIC 5: RETURN WITH STRING
 # ======================================================
+
+# ======================================================
+# Q5. CREATE USERNAME
+# ======================================================
+# Create a function that takes first name and roll number
+# and returns a formatted username.
+#
+# Example:
+# Ali + 25 -> ali_25
