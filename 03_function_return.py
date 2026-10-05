@@ -40,3 +40,5 @@ print("Total Marks:", total)
 # and returns the result.
 #
 # Use the returned value outside the function.
+
+def calculate_average(marks):
