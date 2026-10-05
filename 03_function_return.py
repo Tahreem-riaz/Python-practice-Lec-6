@@ -89,3 +89,10 @@ print("Result:", result)
 # and returns the total, highest, and lowest value.
 
 def analyze_numbers(numbers):
+
+     # Calculate the required values.
+    total = sum(numbers)
+    highest = max(numbers)
+    lowest = min(numbers)
+
+    return total, highest, lowest
