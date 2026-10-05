@@ -19,4 +19,8 @@ Total Questions: 10
 # and returns the total marks.
 
 def calculate_total(math, python, english):
-    
+
+     # Calculate and return the total marks.
+    total = math + python + english
+
+    return total
