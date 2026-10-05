@@ -74,3 +74,6 @@ def check_result(marks):
     else:
         return "Fail"
 
+result = check_result(72)
+
+print("Result:", result)
