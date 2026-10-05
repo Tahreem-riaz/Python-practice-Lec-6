@@ -96,3 +96,7 @@ def analyze_numbers(numbers):
     lowest = min(numbers)
 
     return total, highest, lowest
+
+numbers = [12, 45, 8, 67, 23]
+
+total, highest, lowest = analyze_numbers(numbers)
