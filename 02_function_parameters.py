@@ -200,4 +200,5 @@ def multiplication_table(number):
         print(number, "x", multiplier, "=", result)
 
 multiplication_table(7)
+
         
