@@ -33,3 +33,10 @@ print("Total Marks:", total)
 # TOPIC 2: RETURN VS PRINT
 # ======================================================
 
+# ======================================================
+# Q2. CALCULATE AVERAGE
+# ======================================================
+# Create a function that calculates the average
+# and returns the result.
+#
+# Use the returned value outside the function.
