@@ -170,3 +170,7 @@ def search_item(items, search):
             return True
 
     return False
+
+items = ["Python", "C++", "Database", "HTML"]
+
+found = search_item(items, "Python")
