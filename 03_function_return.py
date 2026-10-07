@@ -138,3 +138,5 @@ print("Username:", username)
 # ======================================================
 # Create a function that takes price and discount.
 # Return the final price after applying the discount.
+
+def calculate_final_price(price, discount):
