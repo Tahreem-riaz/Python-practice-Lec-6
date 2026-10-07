@@ -20,3 +20,9 @@ Total Questions: 8
 # from the given number down to 1.
 
 def countdown(number):
+
+     # Stop the function when the number reaches 0.
+    if number == 0:
+        return
+
+    print(number)
