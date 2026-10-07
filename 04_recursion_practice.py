@@ -51,3 +51,7 @@ def recursive_sum(number):
 
 # Add the current number to the recursive result.
     return number + recursive_sum(number - 1)
+
+result = recursive_sum(5)
+
+print("Sum:", result)
