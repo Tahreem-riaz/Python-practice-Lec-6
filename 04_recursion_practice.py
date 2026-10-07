@@ -1,0 +1,10 @@
+"""
+========================================================
+       LECTURE 06 - FILE 4: RECURSION PRACTICE
+========================================================
+Topics: recursion, recursive functions, recursive
+        problems, call stack, base case, recursive case,
+        and factorial recursion
+Total Questions: 8
+========================================================
+"""
