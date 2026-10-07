@@ -154,3 +154,9 @@ print("Final Price:", final_price)
 # ======================================================
 # TOPIC 7: FUNCTION RETURN WITH SEARCH
 # ======================================================
+
+# ======================================================
+# Q7. SEARCH FOR AN ITEM
+# ======================================================
+# Create a function that searches for an item
+# in a list and returns True or False.
