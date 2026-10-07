@@ -181,3 +181,9 @@ print("Item Found:", found)
 # ======================================================
 # TOPIC 8: RECURSION BASICS
 # ======================================================
+
+# ======================================================
+# Q8. COUNT DOWN USING RECURSION
+# ======================================================
+# Create a recursive function that prints numbers
+# from the given number down to 1.
