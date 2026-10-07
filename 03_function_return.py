@@ -146,3 +146,7 @@ def calculate_final_price(price, discount):
     final_price = price - discount_amount
 
     return final_price
+
+final_price = calculate_final_price(2500, 15)
+
+print("Final Price:", final_price)
