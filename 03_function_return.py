@@ -176,3 +176,8 @@ items = ["Python", "C++", "Database", "HTML"]
 found = search_item(items, "Python")
 
 print("Item Found:", found)
+
+
+# ======================================================
+# TOPIC 8: RECURSION BASICS
+# ======================================================
