@@ -189,3 +189,10 @@ print("Item Found:", found)
 # from the given number down to 1.
 
 def countdown(number):
+
+     # Stop the recursion when the number reaches 0.
+    if number == 0:
+        return
+
+    print(number)
+    
