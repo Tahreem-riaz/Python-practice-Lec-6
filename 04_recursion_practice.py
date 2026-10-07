@@ -48,3 +48,6 @@ def recursive_sum(number):
 # Base case stops the recursion.
     if number == 0:
         return 0
+
+# Add the current number to the recursive result.
+    return number + recursive_sum(number - 1)
