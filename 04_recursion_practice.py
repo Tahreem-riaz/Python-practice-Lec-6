@@ -26,3 +26,9 @@ def countdown(number):
         return
 
     print(number)
+
+# Call the function with the next smaller number.
+    countdown(number - 1)
+
+
+countdown(7)
