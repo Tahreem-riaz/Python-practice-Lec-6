@@ -21,7 +21,7 @@ Total Questions: 8
 
 def countdown(number):
 
-     # Stop the function when the number reaches 0.
+# Stop the function when the number reaches 0.
     if number == 0:
         return
 
@@ -36,3 +36,9 @@ countdown(7)
 # ======================================================
 # TOPIC 2: RECURSIVE FUNCTION
 # ======================================================
+
+# ======================================================
+# Q2. SUM OF NUMBERS
+# ======================================================
+# Create a recursive function that calculates
+# the sum of numbers from 1 to n.
