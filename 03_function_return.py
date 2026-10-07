@@ -174,3 +174,5 @@ def search_item(items, search):
 items = ["Python", "C++", "Database", "HTML"]
 
 found = search_item(items, "Python")
+
+print("Item Found:", found)
