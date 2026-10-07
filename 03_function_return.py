@@ -195,4 +195,8 @@ def countdown(number):
         return
 
     print(number)
-    
+
+    countdown(number - 1)
+
+
+countdown(5)
