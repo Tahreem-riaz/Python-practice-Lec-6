@@ -150,3 +150,7 @@ def calculate_final_price(price, discount):
 final_price = calculate_final_price(2500, 15)
 
 print("Final Price:", final_price)
+
+# ======================================================
+# TOPIC 7: FUNCTION RETURN WITH SEARCH
+# ======================================================
