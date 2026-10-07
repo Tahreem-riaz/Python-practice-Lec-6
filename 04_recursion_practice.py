@@ -44,4 +44,7 @@ countdown(7)
 # the sum of numbers from 1 to n.
 
 def recursive_sum(number):
-    
+
+# Base case stops the recursion.
+    if number == 0:
+        return 0
