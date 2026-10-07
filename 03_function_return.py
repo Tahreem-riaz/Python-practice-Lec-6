@@ -160,3 +160,5 @@ print("Final Price:", final_price)
 # ======================================================
 # Create a function that searches for an item
 # in a list and returns True or False.
+
+def search_item(items, search):
