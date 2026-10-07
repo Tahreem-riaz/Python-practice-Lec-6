@@ -162,3 +162,11 @@ print("Final Price:", final_price)
 # in a list and returns True or False.
 
 def search_item(items, search):
+
+    # Return True when the item is found.
+    for item in items:
+
+        if item.lower() == search.lower():
+            return True
+
+    return False
