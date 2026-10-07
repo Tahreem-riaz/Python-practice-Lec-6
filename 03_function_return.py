@@ -140,3 +140,9 @@ print("Username:", username)
 # Return the final price after applying the discount.
 
 def calculate_final_price(price, discount):
+
+    # Calculate the discount and final price.
+    discount_amount = price * discount / 100
+    final_price = price - discount_amount
+
+    return final_price
