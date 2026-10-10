@@ -78,3 +78,7 @@ def factorial(number):
 
 # Multiply the number by the previous factorial.
     return number * factorial(number - 1)
+
+result = factorial(5)
+
+print("Factorial:", result)
