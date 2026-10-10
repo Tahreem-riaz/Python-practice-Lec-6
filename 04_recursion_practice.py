@@ -55,3 +55,8 @@ def recursive_sum(number):
 result = recursive_sum(5)
 
 print("Sum:", result)
+
+
+# ======================================================
+# TOPIC 3: FACTORIAL RECURSION
+# ======================================================
