@@ -86,3 +86,10 @@ print("Factorial:", result)
 # ======================================================
 # TOPIC 4: RECURSIVE PROBLEM
 # ======================================================
+
+# ======================================================
+# Q4. SUM OF DIGITS
+# ======================================================
+# Create a recursive function that calculates
+# the sum of all digits of a number.
+
