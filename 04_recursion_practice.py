@@ -72,6 +72,9 @@ print("Sum:", result)
 
 def factorial(number):
 
-    # Base case for factorial.
+# Base case for factorial.
     if number == 1:
         return 1
+
+# Multiply the number by the previous factorial.
+    return number * factorial(number - 1)
