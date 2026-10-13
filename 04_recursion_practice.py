@@ -99,4 +99,5 @@ def sum_digits(number):
     if number == 0:
         return 0
 
-   
+   # Add the last digit and process the remaining digits.
+    return number % 10 + sum_digits(number // 10)
