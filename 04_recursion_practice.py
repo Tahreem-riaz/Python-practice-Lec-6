@@ -128,3 +128,7 @@ def reverse_string(text):
 result = reverse_string("Python")
 
 print("Reversed String:", result)
+
+# ======================================================
+# TOPIC 6: RECURSIVE SEARCH
+# ======================================================
