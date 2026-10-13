@@ -121,3 +121,6 @@ def reverse_string(text):
     # Base case when the string has one or no characters.
     if len(text) <= 1:
         return text
+
+    # Move the first character to the end recursively.
+    return reverse_string(text[1:]) + text[0]
