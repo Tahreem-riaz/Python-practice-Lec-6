@@ -101,3 +101,7 @@ def sum_digits(number):
 
    # Add the last digit and process the remaining digits.
     return number % 10 + sum_digits(number // 10)
+
+result = sum_digits(452)
+
+print("Sum of Digits:", result)
