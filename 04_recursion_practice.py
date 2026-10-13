@@ -94,3 +94,9 @@ print("Factorial:", result)
 # the sum of all digits of a number.
 
 def sum_digits(number):
+
+    # Base case for a single digit.
+    if number == 0:
+        return 0
+
+   
