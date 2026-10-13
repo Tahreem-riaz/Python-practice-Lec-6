@@ -105,3 +105,7 @@ def sum_digits(number):
 result = sum_digits(452)
 
 print("Sum of Digits:", result)
+
+# ======================================================
+# TOPIC 5: RECURSIVE STRING
+# ======================================================
