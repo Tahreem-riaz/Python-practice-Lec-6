@@ -117,3 +117,7 @@ print("Sum of Digits:", result)
 # a given string.
 
 def reverse_string(text):
+
+    # Base case when the string has one or no characters.
+    if len(text) <= 1:
+        return text
