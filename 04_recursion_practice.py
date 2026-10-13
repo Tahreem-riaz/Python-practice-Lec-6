@@ -93,3 +93,4 @@ print("Factorial:", result)
 # Create a recursive function that calculates
 # the sum of all digits of a number.
 
+def sum_digits(number):
