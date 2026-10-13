@@ -124,3 +124,7 @@ def reverse_string(text):
 
     # Move the first character to the end recursively.
     return reverse_string(text[1:]) + text[0]
+
+result = reverse_string("Python")
+
+print("Reversed String:", result)
