@@ -115,3 +115,5 @@ print("Sum of Digits:", result)
 # ======================================================
 # Create a recursive function that reverses
 # a given string.
+
+def reverse_string(text):
